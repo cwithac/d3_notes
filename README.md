@@ -1,4 +1,4 @@
-#D3 Notes App
+# D3 Notes App
 
 [Starter Code](https://gist.github.com/mmmaaatttttt/30534db95fa4473dce2c45912bd4908b) via [@mmmaaatttttt](https://gist.github.com/mmmaaatttttt)
 
